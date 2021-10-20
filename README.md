@@ -28,7 +28,7 @@ All projects need a good README.md file to explain what their application does a
 
 ## Screenshot
 
-<img width="809" alt="Screen Shot 2021-09-25 at 10 18 56 AM" src="https://user-images.githubusercontent.com/76274620/137626859-0089fa86-12e0-40ae-b747-c879cb51da6a.png">
+<img width="516" alt="Screen Shot 2021-10-17 at 8 15 44 AM" src="https://user-images.githubusercontent.com/76274620/138145176-16bb89fa-3493-471e-ae14-0ad5245f99e2.png">
 
 ## License
 

@@ -1,8 +1,8 @@
-#  ![badge](https://img.shields.io/badge/Apache-license-blue)
+# project ![badge](https://img.shields.io/badge/MIT-license-blue)
 
 ## Description
 
-
+description
 
 ## Table of Contents
 
@@ -13,33 +13,37 @@
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
+
 ## Installation
+
+installation
 
 
 ## Usage
 
- 
+ usage
+
 
 ## License
 
-![badge](https://img.shields.io/badge/Apache-license-blue)
+![badge](https://img.shields.io/badge/MIT-license-blue)
 
-This application is covered by the Apache License. 
+This application is covered by the MIT License. 
 
 ## Contributing
 
-
+Samira
 
 ## Tests
 
-undefined
+
 
 ## Questions
 
 If you have any questions, reach out to me via:
 
-GitHub: [](https://github.com/)
+GitHub: [sam](https://github.com/sam)
 
-Email: [](mailto:)
+Email: [samira@gm.com](mailto:samira@gm.com)
 
 

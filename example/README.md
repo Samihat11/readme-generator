@@ -18,25 +18,21 @@ description
 
 installation
 
-
 ## Usage
 
- usage
-
+usage
 
 ## License
 
 ![badge](https://img.shields.io/badge/MIT-license-blue)
 
-This application is covered by the MIT License. 
+This application is covered by the MIT License.
 
 ## Contributing
 
 Samira
 
 ## Tests
-
-
 
 ## Questions
 
@@ -45,5 +41,3 @@ If you have any questions, reach out to me via:
 GitHub: [sam](https://github.com/sam)
 
 Email: [samira@gm.com](mailto:samira@gm.com)
-
-

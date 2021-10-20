@@ -42,7 +42,7 @@ Samira Abdalla
 
 ## Tests
 
-undefined
+No tests included.
 
 ## Questions
 

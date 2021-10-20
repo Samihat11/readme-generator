@@ -15,7 +15,9 @@ ${data.description}
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
+
 ## Installation
+
 ${data.installation}
 
 ## Usage
@@ -34,7 +36,7 @@ ${data.contributors}
 
 ## Tests
 
-${data.tests}
+${data.test}
 
 ## Questions
 

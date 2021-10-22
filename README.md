@@ -30,6 +30,10 @@ All projects need a good README.md file to explain what their application does a
 
 <img width="516" alt="Screen Shot 2021-10-17 at 8 15 44 AM" src="https://user-images.githubusercontent.com/76274620/138145176-16bb89fa-3493-471e-ae14-0ad5245f99e2.png">
 
+## Demo
+
+View demo [here](https://watch.screencastify.com/v/G86CTRd7xvjIRCiPTFfZ)
+
 ## License
 
 ![badge](https://img.shields.io/badge/MIT-license-blue)
